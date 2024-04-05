@@ -126,3 +126,5 @@ dmypy.json
 
 # remove the pdf files
 *.pdf
+
+.ipynb_checkpoints
